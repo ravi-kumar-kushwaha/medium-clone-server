@@ -1,12 +1,12 @@
-My Medium Clone
+<h1>My Medium Clone</h1>h1>
 
-A Medium-inspired blogging platform built with Node.js, Express, and MongoDB
+<h3>A Medium-inspired blogging platform built with Node.js, Express, and MongoDB</h3>
 
-Overview
-My Medium Clone is a web application that allows users to create and share articles, stories, and ideas with a community of readers. The platform is designed to be simple, intuitive, and user-friendly, with a focus on readability and user experience.
+<h1>Overview</h1>
+<h3>My Medium Clone is a web application that allows users to create and share articles, stories, and ideas with a community of readers. The platform is designed to be simple, intuitive, and user-friendly, with a focus on readability and user experience.</h3>
 
-Features
-Article Creation: Users can create and publish articles with rich text formatting, images, and videos.
+<h1>Features</h1>
+<h1>Article Creation:</h1> <p>Users can create and publish articles with rich text formatting, images, and videos.</p><br/>
 User Profiles: Each user can create a profile to showcase their articles, bio, and interests.
 Follow/Unfollow Functionality: Users can follow or unfollow authors to see their latest articles in a personalized feed.
 Comments and Responses: Users can comment on articles and reply to other comments.
