@@ -1,4 +1,4 @@
-<h1>My Medium Clone</h1>h1>
+<h1>My Medium Clone</h1>
 
 <h3>A Medium-inspired blogging platform built with Node.js, Express, and MongoDB</h3>
 
@@ -7,36 +7,36 @@
 
 <h1>Features</h1>
 <h1>Article Creation:</h1> <p>Users can create and publish articles with rich text formatting, images, and videos.</p><br/>
-User Profiles: Each user can create a profile to showcase their articles, bio, and interests.
-Follow/Unfollow Functionality: Users can follow or unfollow authors to see their latest articles in a personalized feed.
-Comments and Responses: Users can comment on articles and reply to other comments.
-Categories and Tags: Articles can be categorized and tagged for better discoverability.
-Search: Users can search for articles by keyword, author, or category.
-Technical Details
-Backend: Node.js, Express.js, MongoDB
-Frontend: React (with HTML, CSS, and JavaScript)
-Database: MongoDB
-Deployment: Render
+<h1>User Profiles:</h1> <p>Each user can create a profile to showcase their articles, bio, and interests.</p><br/>
+<h1>Follow/Unfollow Functionality:</h1> <p> Users can follow or unfollow authors to see their latest articles in a personalized feed.</p><br/>
+<h1>Comments and Responses:</h1> <p> Users can comment on articles and reply to other comments.</p><br/>
+<h1>Categories and Tags:</h1> <p> Articles can be categorized and tagged for better discoverability.</p><br/>
+<h1>Search:</h1> <p> Users can search for articles by keyword, author, or category.</p><br/>
+<h1>Technical Details</h1><br/>
+<h1>Backend: </h1> <p>Node.js, Express.js, MongoDB</p><br/>
+<h1>Frontend:</h1> <p> React (with HTML, CSS, and JavaScript)</p><br/>
+<h1>Database:</h1> <p> MongoDB</p><br/>
+<h1>Deployment:</h1> <p> Render</p><br/>
 
-Installation
-To install and run the project locally, follow these steps:
+<h1>Installation</h1><br/>
+<p>To install and run the project locally, follow these steps:</p>
 
-Clone the repository:
-git clone https://github.com/ravi-kumar-kushwaha/medium-clone-server.git
-Navigate to the project directory:
-cd server
-Install dependencies:
-npm install
-Start the server:
-npm start
-Open your browser and visit:
-http://localhost:8000
+<h1>Clone the repository:</h1><br/>
+<p>git clone https://github.com/ravi-kumar-kushwaha/medium-clone-server.git</p>
+<p>Navigate to the project directory:</p>
+<p>cd server</p>
+<h1>Install dependencies:</h1>
+<p>npm install</p>
+<h1>Start the server:</h1>
+<p>npm start</p>
+<p>Open your browser and visit:</p>
+<p>http://localhost:8000</p>
 
-Contributing
-Contributions are welcome! If you'd like to contribute, please fork the repository and submit a pull request with your changes. Open an issue for discussion before making significant changes.
+<h1>Contributing</h1><br/>
+<p>Contributions are welcome! If you'd like to contribute, please fork the repository and submit a pull request with your changes. Open an issue for discussion before making significant changes.</p>
 
-License
-This project is licensed under the MIT License.
+<h1>License</h1>
+<p>This project is licensed under the MIT License.</p>
 
-Acknowledgments
-This project was inspired by Medium and built with the help of various open-source libraries and frameworks.
+<h1>Acknowledgments</h1>
+<h4>This project was inspired by Medium and built with the help of various open-source libraries and frameworks.</h4>
